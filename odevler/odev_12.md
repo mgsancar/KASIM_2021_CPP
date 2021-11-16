@@ -5,8 +5,6 @@
 + standart çıkış akımına ne yazdırılacağını belirtiniz.
 
 ```
-//prog8.cpp
-
 #include <iostream>
 
 int main()
