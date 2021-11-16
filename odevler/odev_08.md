@@ -6,8 +6,6 @@
 
 
 ```
-//prog4.cpp
-
 #include <iostream>
 
 int main()
@@ -16,7 +14,6 @@ int main()
 	const int &cr = x;
 	auto &r = cr;
 	++r;
-
 	std::cout << "x = " << x << "\n";
 }
 ```
