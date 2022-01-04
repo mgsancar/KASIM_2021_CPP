@@ -22,7 +22,7 @@ Nec func()
 
 int main()
 {
-	func();
+	Nec x = func();
 }
 
 ```
